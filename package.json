@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/kelagar/web_scraper#readme",
   "dependencies": {
-    "puppeteer": "^19.7.1"
+    "puppeteer": "^19.7.1",
+    "request-promise": "^4.2.6",
+    "xhr2": "^0.2.1"
   }
 }
